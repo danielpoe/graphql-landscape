@@ -34,6 +34,12 @@ landscape:
             repo_url: 'https://github.com/tartiflette/tartiflette'
             logo: tartiflette.svg
             crunchbase: 'https://www.crunchbase.com/organization/dailymotion'
+          - item:
+            name: Flamingo Commerce
+            homepage_url: 'https://www.flamingo.me/flamingo-commerce.html#Home'
+            repo_url: 'https://github.com/i-love-flamingo/flamingo-commerce'
+            logo: flamingo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/aoe'
   - category:
     name: Databases
     subcategories:
